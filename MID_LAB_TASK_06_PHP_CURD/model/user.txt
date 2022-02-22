@@ -1,0 +1,2 @@
+admin|1234|admin@gmail.com
+employee|5678|employee@gmail.com
