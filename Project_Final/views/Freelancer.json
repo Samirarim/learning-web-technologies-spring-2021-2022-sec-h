@@ -1,0 +1,30 @@
+[
+    {
+    "Name": "Emma Watson",
+    "Gender":"Female",
+    "DOB": "1995-07-22",
+    "Email":"emma@gmail.com",
+    "Category":"Content Creater"
+    },
+    {
+    "Name": "David John",
+    "Gender":"Male",
+    "DOB": "1990-03-12",
+    "Email":"david@gmail.com",
+    "Category":"Web Designer"
+    },
+    {
+    "Name": "Dane Walker",
+    "Gender":"Male",
+    "DOB": "1985-06-02",
+    "Email":"dwalker@gmail.com",
+    "Category":"Content Creater"
+    },
+    {
+    "Name": "Danny Rang",
+    "Gender":"Female",
+    "DOB": "1998-06-12",
+    "Email":"danny@gmail.com",
+    "Category":"Web Designer"
+    }
+]
